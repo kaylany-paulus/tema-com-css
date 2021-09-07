@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&display=swap');
+
+body {
+    background-image: url(https://megacuriosidades.net/wp-content/uploads/2018/06/Su%C3%AD%C3%A7a.jpg);
+    background-size: cover;
+    
+}
+
+main#container {
+    background-color: rgb(3, 7, 65);
+    margin: 190px;
+    padding: 50px;
+    box-shadow: 8px 5px 2px 0px    rgba(82, 194, 214, 0.685);
+    border-style: solid;
+    border-bottom-width: 5px;
+    border-top-width: 5px;
+    border-right-width: 5px;
+    border-left-width: 5px;
+    border-color: rgb(16, 66, 107);
+    }
+
+h1.titulo {
+
+    color: rgb(0, 92, 128);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p.frase {
+    color: rgb(137, 92, 221);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+p.autor {
+    color: rgb(95, 77, 197);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
